@@ -138,7 +138,7 @@ Não se esqueça de dar uma estrela ao projeto! Obrigada novamente!
 4. Envie para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p> -->
 
 <!-- LICENSE -->
 
@@ -146,7 +146,7 @@ Não se esqueça de dar uma estrela ao projeto! Obrigada novamente!
 
 Distribuido sob a licença MIT. Veja `LICENSE.txt` para mais informações.
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p> -->
 
 <!-- CONTACT -->
 
@@ -156,7 +156,7 @@ Joanna Braccini - [LinkedIn](https://www.linkedin.com/in/joannabraccini) - bracc
 
 Link do Projeto: [https://github.com/JoannaBraccini/GrowTwitter](https://github.com/JoannaBraccini/GrowTwitter)
 
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p> -->
 
 <!-- ACKNOWLEDGMENTS -->
 
