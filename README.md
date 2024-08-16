@@ -15,14 +15,15 @@
   <h1 align="center">GrowTwitter</h1>
 
   <p align="center">
-    Projeto de fim de módulo Programação Orientada a Objetos - Turma 19 do Programa Start Dev Web FullStack
+    Projeto de fim do módulo Back-End 2 - Programação Orientada a Objetos - Turma 19 do Programa Starter Web FullStack
     <br />
     <a href="https://github.com/JoannaBraccini/GrowTwitter"><strong>Explore os arquivos »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JoannaBraccini/GrowTwitter">Acessar Demonstração</a>
+    <!-- <a href="https://github.com/JoannaBraccini/GrowTwitter">Acessar Demonstração</a> -->
     ·
     <a href="https://github.com/JoannaBraccini/GrowTwitter/issues/new?labels=bug&template=bug-report---.md">Reportar Bug</a>
+    ·
   </p>
 </div>
 
@@ -56,69 +57,42 @@
 
 ## Sobre o Projeto
 
-[![GrowTwitter Screen Shot][product-screenshot]](https://example.com)
+<!-- [![GrowTwitter Screen Shot][product-screenshot]](https://example.com) -->
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+### Projeto para avaliação de conhecimentos.
+Plataforma similar ao antigo Twitter, com sistema de Tweets, Replies, Likes e Followers.
 
-Here's why:
-
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p> -->
 
 ### Linguagens
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+[![Typescript][Typescript.org]][Typescript-url]
 
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][Angular.io]][Angular-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][Laravel.com]][Laravel-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
 ## Utilização
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Fazer uma cópia e rodar localmente.
 
 ### Pré Requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-
 - npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Instalação
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone o repositório
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/JoannaBraccini/GrowTwitter.git
    ```
-3. Install NPM packages
+2. Instale NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
+3. Start
+   ```sh
+   npm start
    ```
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -126,43 +100,43 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 
 ## Uso
-
+<!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
+-->
 <!-- ROADMAP -->
 
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add voltar ao topo links
+- [x] Desenvolvimento da lógica em Typescript, baseada no gráfico UML e POO
+<!-- - [ ] Add voltar ao topo links
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
   - [ ] Chinese
   - [ ] Spanish
+-->
+Acesse [open issues](https://github.com/JoannaBraccini/Best-README-Template/issues) para uma lista completa de features propostas (e erros conhecidos).
 
-See the [open issues](https://github.com/JoannaBraccini/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 
 ## Contribuições
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Se você tiver uma sugestão que possa melhorar este projeto, faça um fork do repositório e crie um pull request. Você também pode simplesmente abrir uma issue com a tag “enhancement”.
+Não se esqueça de dar uma estrela ao projeto! Obrigada novamente!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Faça um fork do projeto
+2. Crie sua branch de Feature (`git checkout -b feature/AmazingFeature`)
+3. Faça commit das suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Envie para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -170,7 +144,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Licença
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distribuido sob a licença MIT. Veja `LICENSE.txt` para mais informações.
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -178,17 +152,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contato
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Joanna Braccini - [LinkedIn](https://www.linkedin.com/in/joannabraccini) - braccinijoanna@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Link do Projeto: [https://github.com/JoannaBraccini/GrowTwitter](https://github.com/JoannaBraccini/GrowTwitter)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Conhecimentos
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -197,7 +169,7 @@ Use this space to list resources you find helpful and would like to give credit 
 - [Img Shields](https://shields.io)
 - [GitHub Pages](https://pages.github.com)
 - [Font Awesome](https://fontawesome.com)
-<!-- - [React Icons](https://react-icons.github.io/react-icons/search) -->
+- [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -228,3 +200,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[Typescript.org]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[Typescript-url]: https://www.typescriptlang.org
